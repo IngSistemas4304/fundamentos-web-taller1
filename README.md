@@ -90,7 +90,7 @@ Es falsa
 
 Justificación:
 
-La etiqueta <image> no es la etiqueta estándar de HTML para insertar imágenes, en HTML5 se utiliza la etiqueta <img> que ademas no necesita de un </img> al ser un elemento vacio.
+La etiqueta <image> no es la etiqueta estándar de HTML para insertar imágenes, en HTML5 se utiliza la etiqueta <img> que además no necesita de un </img> al ser un elemento vacio.
 
 
 Fuente Consultada:
